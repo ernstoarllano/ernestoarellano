@@ -4,14 +4,6 @@ export default function Home() {
 			<main>
 				<section className="max-w-[500px]">
 					<h1>Ernesto Arellano, software engineer</h1>
-					<p>
-						In addition to my professional endeavors, I'm dedicated to my family
-						as a father and husband. Outside of work, I enjoy immersing myself
-						in nature through hiking and running, and I have a keen interest in
-						kettlebell workouts for balance. These activities complement my
-						professional skills, shaping me into a resilient, well-rounded
-						individual.
-					</p>
 					<hr />
 					<h2>Work Experience</h2>
 					<dl>
