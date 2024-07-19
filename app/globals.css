@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 0 5rem;
+  font-family: mono;
+}
+
+hr {
+  margin: 3rem 0;
+}
+
+h1 {
+  margin: 3rem 0 1rem;
+  font-size: clamp(1.5rem, 7vw, 32px);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.1rem;
+  text-wrap: balance;
+}
+
+h2 {
+  margin: 3.5rem 0 2rem;
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.14rem;
+}
+
+dt {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+dd {
+  margin-bottom: 1.5rem;
+}
+
+i {
+  font-family: mono;
+  font-weight: 400;
+}
+
+p {
+  margin-bottom: 0.5rem;
+  font-family: mono;
+  text-wrap: pretty;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+  margin-bottom: 0.25rem;
+  list-style: none;
+}
+
+li {
+  position: relative;
+  margin-bottom: 0.5rem;
+  padding-left: 1rem;
+  font-family: mono;
+  font-size: inherit;
+}
+
+li:before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 0.5rem;
+  height: 1px;
+  background-color: black;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+section > p:first-of-type {
+  font-size: clamp(1.1rem, 4vw, 21px);
+}
+
+footer {
+  margin: 4rem 0 2rem 0;
+  font-size: 14px;
+  font-family: mono;
+}
+
+a:hover {
+  text-decoration: underline;
+}
