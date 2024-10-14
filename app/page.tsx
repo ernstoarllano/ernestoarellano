@@ -5,7 +5,14 @@ export default function Home() {
 				<section className="max-w-[500px]">
 					<h1>Building Future-Ready Applications with Full Stack Expertise</h1>
 					<p>
-						I'm Ernesto Arellano, a Senior Software Engineer with over a decade of experience. I specialize in creating scalable, maintainable web solutions by leveraging modern and legacy technologies. My strategic thinking and hands-on approach have been key in delivering high-impact solutions for clients and organizations alike. Outside of work, my passion for nature, fitness, and balance helps me bring focus and resilience to every challenge I tackle.
+						I'm Ernesto Arellano, a Senior Software Engineer with over 12 years
+						of experience specializing in creating scalable, maintainable web
+						solutions by leveraging both modern and legacy technologies. My
+						strategic thinking and hands-on approach have been key in delivering
+						high-impact solutions for clients and organizations alike. Outside
+						of work, I find inspiration in nature, fitness, and maintaining
+						balance, which helps me bring focus and resilience to every
+						challenge I tackle, both professionally and personally.
 					</p>
 					<hr />
 					<h2>Work Experience</h2>
@@ -15,7 +22,13 @@ export default function Home() {
 						</dt>
 						<dd>
 							<p>
-								At Dispel, I spearheaded the development of DRY patterns that ensured scalable and maintainable code for mission-critical applications. I played a key role in launching a reusable component library that streamlined workflows across teams, improved efficiency, and supported localization efforts. My contributions to modernizing legacy systems resulted in more performant and maintainable applications.
+								At Dispel, I led the development of a reusable component library
+								that improved developer workflows and enhanced scalability
+								across teams. I implemented DRY patterns to ensure code
+								maintainability and helped modernize legacy systems,
+								significantly improving application performance. I also worked
+								on mission-critical projects, collaborating cross-functionally
+								to implement localization and optimize product efficiency.
 							</p>
 							<ul>
 								<li>TypeScript</li>
@@ -36,7 +49,12 @@ export default function Home() {
 						</dt>
 						<dd>
 							<p>
-								As the lead Full Stack Web Developer, I oversaw the creation of custom websites for outdoor recreation clients, driving enhanced online engagement and optimizing the user experience. I led end-to-end development efforts, including front-end performance improvements and robust back-end architecture.
+								As the Senior Full Stack Developer at Big Rig Media, I
+								spearheaded the development of the Xpress SaaS platform,
+								reducing client website delivery times by 50%. I managed
+								end-to-end development, including front-end optimization and
+								back-end architecture, and drove customer engagement through
+								enhanced user experiences for outdoor recreation clients.
 							</p>
 							<ul>
 								<li>PHP</li>
@@ -52,7 +70,11 @@ export default function Home() {
 						</dt>
 						<dd>
 							<p>
-								I began my career as a Junior Web Developer at Conveyor Group, quickly adapting to a fast-paced environment by contributing to CMS customizations and enhancing features. My early exposure to web technologies and collaboration laid the foundation for my future technical leadership.
+								I began my career as a Junior Web Developer at Conveyor Group,
+								quickly adapting to a fast-paced environment by contributing to
+								CMS customizations and enhancing features. My early exposure to
+								web technologies and collaboration laid the foundation for my
+								future technical leadership.
 							</p>
 							<ul>
 								<li>PHP</li>
@@ -65,8 +87,45 @@ export default function Home() {
 						</dd>
 					</dl>
 					<hr />
+					<h2>Projects</h2>
+					<dl>
+						<dt>
+							Campway <i>present</i>
+						</dt>
+						<dd>
+							<p>
+								An AI-driven insights platform designed for RV park management,
+								integrating OpenAI technology to deliver predictive analytics.
+								Campway helps park managers make data-driven decisions by
+								analyzing historical reservation data and offering real-time
+								forecasts on booking patterns, occupancy rates, and seasonal
+								trends. The platform provides intuitive visualizations and
+								dashboards, enabling seamless management of resources and
+								maximizing operational efficiency while enhancing the guest
+								experience.
+							</p>
+							<ul>
+								<li>TypeScript</li>
+								<li>React</li>
+								<li>Next.js</li>
+								<li>Tailwind CSS</li>
+								<li>Radix UI</li>
+								<li>Mapbox GL</li>
+								<li>OpenAI</li>
+								<li>Turborepo</li>
+								<li>React Email</li>
+							</ul>
+						</dd>
+					</dl>
+					<hr />
 					<h2>Let's Connect</h2>
-					<p>If you're looking for a Senior Engineer with deep expertise in full stack development, let's build something amazing together.</p>
+					<p>
+						I'm currently seeking new opportunities to bring my expertise in
+						full-stack development to teams focused on building scalable,
+						innovative web solutions. If you're looking for a Senior Engineer
+						who can lead high-impact projects and build future-ready
+						applications, let's connect.
+					</p>
 					<ul>
 						<li>
 							<a
