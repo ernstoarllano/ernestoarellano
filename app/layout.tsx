@@ -6,7 +6,7 @@ import '@/app/globals.css'
 export const metadata: Metadata = {
 	title: 'Ernesto Arellano, Software Engineer',
 	description:
-		'Ernesto Arellano is a Software Engineer delivering high quality code tools that scale.',
+		'Ernesto Arellano is a Senior Software Engineer with 12+ years of experience specializing in scalable web solutions using React, Next.js, TypeScript, and more. Delivering high-quality code and tools that drive business growth.',
 }
 
 type RootLayoutProps = Readonly<{
