@@ -99,4 +99,8 @@ a:hover {
   body {
     padding: 0 1rem;
   }
+
+  main {
+    grid-template-columns: 1fr;
+  }
 }
